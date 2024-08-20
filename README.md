@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Nyamao Gregory Kaiser
 
 <h3 align="center">
-I'm a<a href="https://nyamaogregorykaiser.github.io/Nyamao-Gregory/" target="_blank" rel="noreferrer">Computer Scientist Professional</a> 👋
+I'm a <a href="https://nyamaogregorykaiser.github.io/Nyamao-Gregory/" target="_blank" rel="noreferrer">Computer Scientist Professional</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Developer, Data Analyst, and Cybersecurity Enthusiast 💻
+a Developer, Data Analyst, and Cybersecurity Enthusiast 💻
 </h2>
 
 ---
