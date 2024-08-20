@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nyamao Gregory Kaiser
 
-<a href="https://www.Gregory-spec.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/52480604/174073494-0d05b944-6932-4045-b633-c54e864dd935.jpg" alt="my banner"></a>
+<a href="https://www.Gregory-spec.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/NyamaoGregoryKaiser/NyamaoGregoryKaiser/blob/master/greg.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
