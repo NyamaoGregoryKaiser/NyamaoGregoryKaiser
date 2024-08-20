@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nyamao Gregory Kaiser
 
 <h3 align="center">
-I'm <a href="https://nyamaogregorykaiser.github.io/Nyamao-Gregory/" target="_blank" rel="noreferrer">Nyamao Gregory Kaiser</a> 👋
+I'm a<a href="https://nyamaogregorykaiser.github.io/Nyamao-Gregory/" target="_blank" rel="noreferrer">Computer Scientist Professional</a> 👋
 </h3>
 
 <h2 align="center">
