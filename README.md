@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nyamao Gregory Kaiser
 
 <p align="center">
-  <a href="https://nyamaogregorykaiser.github.io/Nyamao-Gregory/" target="_blank" rel="noreferrer"><img src="https://github.com/NyamaoGregoryKaiser" alt="my banner"></a>
+  <a href="https://raw.githubusercontent.com/NyamaoGregoryKaiser/NyamaoGregoryKaiser/master/5fe1fdf0-3e30-4315-ac9b-e711ab9a96de.webp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/NyamaoGregoryKaiser/NyamaoGregoryKaiser/master/5fe1fdf0-3e30-4315-ac9b-e711ab9a96de.webp" alt="my banner"></a>
 </p>
 
 <h3 align="center">
