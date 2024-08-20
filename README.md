@@ -1,12 +1,5 @@
 # 👋 Hi, I'm Nyamao Gregory Kaiser
 
-<div style="text-align: center;">
-  <a href="https://www.Gregory-spec.dev/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/NyamaoGregoryKaiser/NyamaoGregoryKaiser/blob/master/greg.png" alt="my banner" style="width: 80%; max-width: 600px;">
-  </a>
-</div>
-
-
 <h3 align="center">
 Hi there, I'm <a href="https://nyamaogregorykaiser.github.io/Nyamao-Gregory/" target="_blank" rel="noreferrer">Nyamao Gregory Kaiser</a> 👋
 </h3>
