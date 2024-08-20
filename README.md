@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Nyamao Gregory Kaiser
 
-<a href="https://www.Gregory-spec.dev/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/NyamaoGregoryKaiser/NyamaoGregoryKaiser/blob/master/greg.png" alt="my banner" width="600" height="300">
-</a>
+<div style="text-align: center;">
+  <a href="https://www.Gregory-spec.dev/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/NyamaoGregoryKaiser/NyamaoGregoryKaiser/blob/master/greg.png" alt="my banner" style="width: 80%; max-width: 600px;">
+  </a>
+</div>
 
 
 <h3 align="center">
