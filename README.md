@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nyamao Gregory Kaiser
 <h3 align="center">
-I'm a <a href="https://nyamaogregorykaiser.github.io/Nyamao-Gregory/" target="_blank" rel="noreferrer">Computer Scientist</a> 👋
+I'm a <a href="https://nyamao.me/" target="_blank" rel="noreferrer">Computer Scientist</a> 👋
 </h3>
 <h2 align="center">
 a Developer, Data Analyst, and Cybersecurity Enthusiast 💻
