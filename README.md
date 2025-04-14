@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Nyamao Gregory Kaiser
+
 <h3 align="center">
 I'm a <a href="https://nyamao.me/" target="_blank" rel="noreferrer">Computer Scientist</a> 👋
 </h3>
+
 <h2 align="center">
-a Developer, Data Analyst, and Cybersecurity Enthusiast 💻
+A Developer, Data Analyst, and Cybersecurity Enthusiast 💻
 </h2>
 
 ---
@@ -30,19 +32,19 @@ a Developer, Data Analyst, and Cybersecurity Enthusiast 💻
 ---
 
 ## 💼 Technical Skills
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
-![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <br>
-![](https://img.shields.io/badge/Web-HTML5-informational?style=flat&logo=html5&color=E34F26)
-![](https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=css3&color=1572B6)
-![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vue.js&color=4FC08D)
+![HTML5](https://img.shields.io/badge/Web-HTML5-informational?style=flat&logo=html5&color=E34F26)
+![CSS3](https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=css3&color=1572B6)
+![Vue.js](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vue.js&color=4FC08D)
 <br>
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&color=181717)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&color=336791)
-![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=sql&color=00758F)
+![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&color=181717)
+![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&color=336791)
+![SQL](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=sql&color=00758F)
 
 ---
 
@@ -51,7 +53,7 @@ a Developer, Data Analyst, and Cybersecurity Enthusiast 💻
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NyamaoGregoryKaiser&layout=compact&theme=radical)](https://github.com/NyamaoGregoryKaiser)
 
 ## 📊 Contribution Graph
-[![Nyamao's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=NyamaoGregoryKaiser&theme=react-dark)](https://github.com/NyamaoGregoryKaiser)
+[![Nyamao's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NyamaoGregoryKaiser&theme=react-dark)](https://github.com/NyamaoGregoryKaiser)
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=NyamaoGregoryKaiser&theme=onedark)](https://github.com/NyamaoGregoryKaiser)
